@@ -180,7 +180,7 @@ data-warehouse-project/
 
 Let’s connect and grow together 🚀
 
-🔗 LinkedIn: [https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/mohd-akram-6a210a259/)]
+🔗 LinkedIn: [(https://www.linkedin.com/in/mohd-akram-6a210a259/)]
 
 💻 GitHub: [https://github.com/MOHDAKRAM43]
 
