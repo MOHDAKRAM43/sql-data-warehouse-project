@@ -184,7 +184,8 @@ Let’s connect and grow together 🚀
 
 💻 GitHub: [https://github.com/MOHDAKRAM43]
 
-All learning materials and courses are completely free.
+📧 Gmail: [imakram7860@gmail.com]
+
 Your support through starring, and sharing means a lot ❤️
 Thank you.
 
