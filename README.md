@@ -173,7 +173,8 @@ data-warehouse-project/
 ├── LICENSE
 ├── .gitignore
 └── requirements.txt
----
+
+----
 
 ## ☕ Stay Connected
 
